@@ -3545,8 +3545,7 @@
             "dateRead": "2024-05-12",
             "tags": [
                 "non-fiction",
-                "religion",
-                "tantra"
+                "Indian Philosophy"
             ],
             "language": "BN",
             "status": "read",
@@ -3580,7 +3579,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2014-01-31",
-            "tags": [],
+            "tags": ["translation", "folklore"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -3588,13 +3587,13 @@
         {
             "title": "Solaris",
             "author": "Stanisław Lem",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/solaris.jpg",
             "rating": 4.25,
             "dateRead": "2024-12-15",
-            "tags": [],
+            "tags": ["Sci-Fi"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": "https://ritogh.substack.com/p/not-merely-a-story-of-a-man-facing"
         },
         {
             "title": "The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design",
@@ -6698,10 +6697,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2023-02-01",
-            "tags": [
-                "fiction",
-                "best"
-            ],
+            "tags": ["Sci-Fi"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -6718,7 +6714,7 @@
             "review": null
         },
         {
-            "title": "সুকুমার রচনা  সমগ্র",
+            "title": "সুকুমার রচনা সমগ্র",
             "author": "Sukumar Ray",
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,

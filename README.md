@@ -18,6 +18,8 @@ A beautiful, responsive book gallery website to showcase your reading collection
 1. **Clone or download** this repository
 2. **Open `index.html`** in your browser
 3. **Start customizing** by editing `books.json`
+4. **Python server**: Run `python -m http.server` in the project directory if you have a large number of books or want to avoid CORS issues
+5. **Open your browser** at `http://localhost:8000` to view the site
 
 That's it! The site works immediately with sample data.
 
@@ -47,30 +49,28 @@ Edit the `books.json` file to add your books:
 
 ### Book Data Fields
 
-| Field | Type | Description | Example |
-|-------|------|-------------|---------|
-| `title` | string | Book title | "Dune" |
-| `author` | string | Author name | "Frank Herbert" |
-| `cover` | string | Cover image URL | "https://example.com/cover.jpg" |
-| `rating` | number | Your rating (1-5) | 5 |
-| `dateRead` | string/null | Date finished (YYYY-MM-DD) | "2024-01-15" |
-| `tags` | array | Book categories | ["Sci-Fi", "Classic"] |
-| `language` | string | Language code | "EN", "ES", "FR" |
-| `status` | string | "read" or "want-to-read" | "read" |
-| `review` | string/null | Review link | "https://goodreads.com/..." |
+| Field      | Type        | Description                              | Example                         |
+| ---------- | ----------- | ---------------------------------------- | ------------------------------- |
+| `title`    | string      | Book title                               | "Dune"                          |
+| `author`   | string      | Author name                              | "Frank Herbert"                 |
+| `cover`    | string      | Cover image URL/local file relative path | "https://example.com/cover.jpg" |
+| `rating`   | number      | Your rating (1-5)                        | 5                               |
+| `dateRead` | string/null | Date finished (YYYY-MM-DD)               | "2024-01-15"                    |
+| `tags`     | array       | Book categories                          | ["Sci-Fi", "Classic"]           |
+| `language` | string      | Language code                            | "EN", "ES", "FR"                |
+| `status`   | string      | "read" or "want-to-read"                 | "read"                          |
+| `review`   | string/null | Review link                              | "https://goodreads.com/..."     |
 
 ### Supported Languages
 
 - `EN` - English
-- `ES` - Spanish  
-- `FR` - French
+- `ES` - Spanish
 - `DE` - German
-- `IT` - Italian
-- `PT` - Portuguese
-- `RU` - Russian
-- `JA` - Japanese
-- `KO` - Korean
-- `ZH` - Chinese
+- `SA` - Sanskrit
+- `BN` - Bengali
+- `HI` - Hindi
+
+(You can add more languages as needed)
 
 ## 🌐 Deployment
 
@@ -83,13 +83,13 @@ Edit the `books.json` file to add your books:
 5. **Choose branch**: `main` or `master`
 6. **Save** - Your site will be live at `https://username.github.io/repository-name`
 
-### Cloudflare Pages
+### Cloudflare Pages (Not tested)
 
 1. **Sign up** for Cloudflare Pages
 2. **Connect your GitHub repository**
 3. **Deploy** - Your site will be live instantly
 
-### Netlify
+### Netlify (Not tested)
 
 1. **Drag and drop** the folder to [netlify.com](https://netlify.com)
 2. **Your site is live** immediately
@@ -99,6 +99,7 @@ Edit the `books.json` file to add your books:
 ### Colors and Styling
 
 Edit `styles.css` to customize:
+
 - Background gradient
 - Card colors
 - Hover effects
@@ -107,16 +108,18 @@ Edit `styles.css` to customize:
 ### Layout
 
 Modify the grid layout in `styles.css`:
+
 ```css
 .books-grid {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 2rem;
 }
 ```
 
 ### Adding Features
 
 The JavaScript in `script.js` is modular and easy to extend:
+
 - Add new filter types
 - Implement sorting
 - Add book details modal
@@ -125,6 +128,7 @@ The JavaScript in `script.js` is modular and easy to extend:
 ## 📱 Mobile Responsive
 
 The site automatically adapts to:
+
 - **Desktop**: Full grid layout
 - **Tablet**: Adjusted spacing and sizing
 - **Mobile**: Single column layout
@@ -132,16 +136,19 @@ The site automatically adapts to:
 ## 🔧 Troubleshooting
 
 ### Images Not Loading
+
 - Check that cover URLs are accessible
 - Use placeholder images for missing covers
 - Ensure URLs are HTTPS for security
 
 ### JSON Errors
+
 - Validate your JSON at [jsonlint.com](https://jsonlint.com)
 - Check for missing commas or brackets
 - Ensure all required fields are present
 
 ### Local Development
+
 - Use a local server to avoid CORS issues
 - Python: `python -m http.server 8000`
 - Node.js: `npx serve .`
@@ -152,19 +159,16 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Feel free to:
-- Report bugs
-- Suggest features
-- Submit pull requests
-- Share your customized version
+Feel free to fork the project, and add your own features or improvements! I am not looking to extend this project.
 
 ## 📞 Support
 
 If you need help:
+
 1. Check the troubleshooting section
 2. Look at the sample data in `books.json`
 3. Open an issue on GitHub
 
 ---
 
-**Happy Reading! 📚✨** 
+**Happy Reading! 📚✨**

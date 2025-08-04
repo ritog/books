@@ -308,10 +308,19 @@ class BookGallery {
         const dateDisplay = book.dateRead ? this.formatDate(book.dateRead) : 'Not read yet';
         const reviewLink = book.review ? `<a href="${book.review}" target="_blank" class="review-link"><i class="fas fa-external-link-alt"></i> Read Review</a>` : '';
         
+        let statusText = '';
+        if (book.status === 'read') {
+            statusText = 'Read';
+        } else if (book.status === 'want-to-read') {
+            statusText = 'Want to Read';
+        } else if (book.status === 'reading') {
+            statusText = 'Reading';
+        }
+
         return `
             <div class="book-card">
                 <div class="book-status status-${book.status}">
-                    ${book.status === 'read' ? 'Read' : 'Want to Read'}
+                    ${statusText}
                 </div>
                 <img src="${book.cover}" alt="${book.title}" class="book-cover" onerror="this.src='https://via.placeholder.com/200x280/cccccc/666666?text=No+Cover'">
                 <div class="book-info">
@@ -352,10 +361,12 @@ class BookGallery {
     updateStats() {
         const totalBooks = this.books.length;
         const readBooks = this.books.filter(book => book.status === 'read').length;
+        const readingBooks = this.books.filter(book => book.status === 'reading').length;
         const wantToReadBooks = this.books.filter(book => book.status === 'want-to-read').length;
         
         document.getElementById('totalBooks').textContent = totalBooks;
         document.getElementById('readBooks').textContent = readBooks;
+        document.getElementById('readingBooks').textContent = readingBooks;
         document.getElementById('wantToReadBooks').textContent = wantToReadBooks;
     }
 }

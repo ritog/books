@@ -512,6 +512,10 @@ body {
     background: rgba(34, 197, 94, 0.8);
 }
 
+.status-reading {
+    background: rgba(255, 193, 7, 0.8);
+}
+
 .status-want-to-read {
     background: rgba(59, 130, 246, 0.8);
 }

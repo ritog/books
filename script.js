@@ -16,7 +16,7 @@ class BookGallery {
         await this.loadBooks();
         this.setupEventListeners();
         this.populateFilters();
-        this.renderBooks();
+        this.applyFilters();
         this.updateStats();
     }
     
@@ -165,17 +165,12 @@ class BookGallery {
     
     getLanguageName(code) {
         const languages = {
+            'SA': 'Sanskrit',
             'EN': 'English',
             'BN': 'Bengali',
             'ES': 'Spanish',
-            'FR': 'French',
             'DE': 'German',
-            'IT': 'Italian',
-            'PT': 'Portuguese',
-            'RU': 'Russian',
-            'JA': 'Japanese',
-            'KO': 'Korean',
-            'ZH': 'Chinese'
+            'HI': 'Hindi',
         };
         return languages[code] || code;
     }

@@ -7,7 +7,8 @@ class BookGallery {
             tags: [],
             languages: [],
             status: 'read', // Default to showing read books
-            sortBy: 'dateRead'
+            sortBy: 'dateRead',
+            searchTerm: ''
         };
         
         this.init();
@@ -125,6 +126,12 @@ class BookGallery {
             });
         });
         
+        // Search bar
+        document.getElementById('search').addEventListener('input', (e) => {
+            this.filters.searchTerm = e.target.value.toLowerCase();
+            this.applyFilters();
+        });
+        
         // Clear filters button
         document.getElementById('clearFilters').addEventListener('click', () => {
             this.clearAllFilters();
@@ -212,6 +219,10 @@ class BookGallery {
         this.filters.languages = [];
         this.filters.status = 'read'; // Reset to default
         this.filters.sortBy = 'dateRead';
+        this.filters.searchTerm = '';
+
+        // Clear search bar
+        document.getElementById('search').value = '';
         
         // Reset active button
         document.querySelectorAll('.status-btn').forEach(btn => {
@@ -227,6 +238,14 @@ class BookGallery {
     
     applyFilters() {
         this.filteredBooks = this.books.filter(book => {
+            // Search filter
+            if (this.filters.searchTerm) {
+                const searchTerm = this.filters.searchTerm;
+                const titleMatch = book.title.toLowerCase().includes(searchTerm);
+                const authorMatch = book.author.toLowerCase().includes(searchTerm);
+                if (!titleMatch && !authorMatch) return false;
+            }
+
             // Tag filter (union - OR logic)
             if (this.filters.tags.length > 0) {
                 const hasMatchingTag = this.filters.tags.some(filterTag => 

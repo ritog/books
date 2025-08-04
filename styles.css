@@ -265,6 +265,37 @@ body {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+.search-bar {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.search-bar input {
+    width: 100%;
+    padding: 0.5rem 0.5rem 0.5rem 2rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid #666;
+    border-radius: 6px;
+    color: #e0e0e0;
+    font-size: 0.8rem;
+    transition: all 0.3s ease;
+}
+
+.search-bar input:focus {
+    outline: none;
+    border-color: #ffd700;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.search-bar i {
+    position: absolute;
+    top: 50%;
+    left: 0.75rem;
+    transform: translateY(-50%);
+    color: #a0a0a0;
+    font-size: 0.8rem;
+}
+
 .clear-filters-btn {
     width: 100%;
     padding: 0.5rem;

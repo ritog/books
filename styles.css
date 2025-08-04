@@ -88,17 +88,23 @@ body {
     font-size: 0.8rem;
 }
 
+/* Main Content Layout */
+.main-content {
+    display: grid;
+    grid-template-columns: 1fr 250px;
+    gap: 2rem;
+    align-items: start;
+}
+
 /* Sidebar */
 .sidebar {
-    position: fixed;
-    right: 2rem;
+    position: sticky;
     top: 2rem;
-    width: 200px;
+    width: 100%;
     max-height: calc(100vh - 4rem);
     background: transparent;
     padding: 1rem;
     overflow-y: auto;
-    z-index: 1000;
 }
 
 .sidebar-header {

@@ -33,52 +33,52 @@
             </button>
         </div>
 
-        <div class="sidebar">
-            <div class="sidebar-header">
-                <h3><i class="fas fa-filter"></i> Filters</h3>
-            </div>
-            
-            <div class="filter-section">
-                <h4>Tags</h4>
-                <div id="tagFilters" class="checkbox-group">
-                    <!-- Tags will be populated here -->
-                </div>
-            </div>
-            
-            <div class="filter-section">
-                <h4>Languages</h4>
-                <div id="languageFilters" class="checkbox-group">
-                    <!-- Languages will be populated here -->
-                </div>
+        <div class="main-content">
+            <div class="books-grid" id="booksGrid">
+                <!-- Books will be dynamically loaded here -->
             </div>
 
-            <div class="filter-section">
-                <h4>Sort by</h4>
-                <div id="sortOptions" class="radio-group">
-                    <label class="radio-label">
-                        <input type="radio" name="sort" value="dateRead" class="sort-radio" checked>
-                        <span class="radio-button"></span>
-                        Date Read
-                    </label>
-                    <label class="radio-label">
-                        <input type="radio" name="sort" value="rating" class="sort-radio">
-                        <span class="radio-button"></span>
-                        Rating
-                    </label>
+            <div class="sidebar">
+                <div class="sidebar-header">
+                    <h3><i class="fas fa-filter"></i> Filters</h3>
+                </div>
+                
+                <div class="filter-section">
+                    <h4>Tags</h4>
+                    <div id="tagFilters" class="checkbox-group">
+                        <!-- Tags will be populated here -->
+                    </div>
+                </div>
+                
+                <div class="filter-section">
+                    <h4>Languages</h4>
+                    <div id="languageFilters" class="checkbox-group">
+                        <!-- Languages will be populated here -->
+                    </div>
+                </div>
+
+                <div class="filter-section">
+                    <h4>Sort by</h4>
+                    <div id="sortOptions" class="radio-group">
+                        <label class="radio-label">
+                            <input type="radio" name="sort" value="dateRead" class="sort-radio" checked>
+                            <span class="radio-button"></span>
+                            Date Read
+                        </label>
+                        <label class="radio-label">
+                            <input type="radio" name="sort" value="rating" class="sort-radio">
+                            <span class="radio-button"></span>
+                            Rating
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="sidebar-footer">
+                    <button id="clearFilters" class="clear-filters-btn">
+                        <i class="fas fa-times"></i> Clear All
+                    </button>
                 </div>
             </div>
-            
-
-            
-            <div class="sidebar-footer">
-                <button id="clearFilters" class="clear-filters-btn">
-                    <i class="fas fa-times"></i> Clear All
-                </button>
-            </div>
-        </div>
-
-        <div class="books-grid" id="booksGrid">
-            <!-- Books will be dynamically loaded here -->
         </div>
 
         <div class="stats">

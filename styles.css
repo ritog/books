@@ -88,6 +88,10 @@ body {
     font-size: 0.8rem;
 }
 
+.sidebar-toggle {
+    display: none;
+}
+
 /* Main Content Layout */
 .main-content {
     display: grid;
@@ -402,7 +406,7 @@ body {
 }
 
 .book-title {
-    font-size: 0.8rem;
+    font-size: 14px;
     font-weight: 600;
     margin-bottom: 0.4rem;
     color: #333;
@@ -410,7 +414,7 @@ body {
 }
 
 .book-author {
-    font-size: 0.7rem;
+    font-size: 12px;
     color: #666;
     margin-bottom: 0.8rem;
     font-style: italic;
@@ -422,6 +426,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 0.3rem;
+    font-size: 12px;
 }
 
 .book-rating {
@@ -432,11 +437,11 @@ body {
 
 .stars {
     color: #ffd700;
-    font-size: 0.5rem;
+    font-size: 12px;
 }
 
 .book-date {
-    font-size: 0.4rem;
+    font-size: 11px;
     color: #888;
     display: flex;
     align-items: center;
@@ -455,13 +460,13 @@ body {
     color: white;
     padding: 0.1rem 0.4rem;
     border-radius: 8px;
-    font-size: 0.35rem;
+    font-size: 10px;
     font-weight: 500;
     white-space: nowrap;
 }
 
 .book-language {
-    font-size: 0.3rem;
+    font-size: 11px;
     color: #888;
     display: flex;
     align-items: center;
@@ -475,7 +480,7 @@ body {
 .review-link {
     color: #667eea;
     text-decoration: none;
-    font-size: 0.2rem;
+    font-size: 11px;
     font-weight: 500;
     display: flex;
     align-items: center;
@@ -544,11 +549,35 @@ body {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    .main-content {
+        grid-template-columns: 1fr;
+    }
+
     .sidebar {
-        right: 1rem;
-        top: 1rem;
-        width: 160px;
-        max-height: calc(100vh - 2rem);
+        display: none;
+        position: static;
+        max-height: none;
+        overflow-y: visible;
+        grid-row: 2;
+    }
+
+    .sidebar.open {
+        display: block;
+    }
+
+    .sidebar-toggle {
+        display: block;
+        margin-bottom: 1rem;
+        padding: 0.5rem 1rem;
+        background: rgba(255, 255, 255, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        border-radius: 20px;
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 0.85rem;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        backdrop-filter: blur(10px);
     }
     
     .container {

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Book Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="title">
+                <i class="fas fa-book-open"></i>
+                My Book Gallery
+            </h1>
+            <p class="subtitle">A collection of books I've read and want to read</p>
+        </header>
+
+        <div class="status-buttons">
+            <button class="status-btn active" data-status="read">
+                <i class="fas fa-check-circle"></i>
+                Read
+            </button>
+            <button class="status-btn" data-status="want-to-read">
+                <i class="fas fa-bookmark"></i>
+                Want to Read
+            </button>
+            <button class="status-btn" data-status="all">
+                <i class="fas fa-books"></i>
+                All Books
+            </button>
+        </div>
+
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h3><i class="fas fa-filter"></i> Filters</h3>
+            </div>
+            
+            <div class="filter-section">
+                <h4>Tags</h4>
+                <div id="tagFilters" class="checkbox-group">
+                    <!-- Tags will be populated here -->
+                </div>
+            </div>
+            
+            <div class="filter-section">
+                <h4>Languages</h4>
+                <div id="languageFilters" class="checkbox-group">
+                    <!-- Languages will be populated here -->
+                </div>
+            </div>
+            
+
+            
+            <div class="sidebar-footer">
+                <button id="clearFilters" class="clear-filters-btn">
+                    <i class="fas fa-times"></i> Clear All
+                </button>
+            </div>
+        </div>
+
+        <div class="books-grid" id="booksGrid">
+            <!-- Books will be dynamically loaded here -->
+        </div>
+
+        <div class="stats">
+            <div class="stat">
+                <span class="stat-number" id="totalBooks">0</span>
+                <span class="stat-label">Total Books</span>
+            </div>
+            <div class="stat">
+                <span class="stat-number" id="readBooks">0</span>
+                <span class="stat-label">Read</span>
+            </div>
+            <div class="stat">
+                <span class="stat-number" id="wantToReadBooks">0</span>
+                <span class="stat-label">Want to Read</span>
+            </div>
+        </div>
+
+        <div class="no-results" id="noResults" style="display: none;">
+            <i class="fas fa-search"></i>
+            <h3>No books found</h3>
+            <p>Try adjusting your search or filters</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

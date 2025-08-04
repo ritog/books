@@ -6,7 +6,8 @@ class BookGallery {
         this.filters = {
             tags: [],
             languages: [],
-            status: 'read' // Default to showing read books
+            status: 'read', // Default to showing read books
+            sortBy: 'dateRead'
         };
         
         this.init();
@@ -111,6 +112,10 @@ class BookGallery {
             if (e.target.classList.contains('filter-checkbox')) {
                 this.updateFilters();
             }
+            if (e.target.classList.contains('sort-radio')) {
+                this.filters.sortBy = e.target.value;
+                this.applyFilters();
+            }
         });
         
         // Status buttons
@@ -206,12 +211,16 @@ class BookGallery {
         this.filters.tags = [];
         this.filters.languages = [];
         this.filters.status = 'read'; // Reset to default
+        this.filters.sortBy = 'dateRead';
         
         // Reset active button
         document.querySelectorAll('.status-btn').forEach(btn => {
             btn.classList.remove('active');
         });
         document.querySelector('[data-status="read"]').classList.add('active');
+
+        // Reset sort radio
+        document.querySelector('input[name="sort"][value="dateRead"]').checked = true;
         
         this.applyFilters();
     }
@@ -240,9 +249,23 @@ class BookGallery {
             
             return true;
         });
-        
+
+        this.applySorting();
         this.renderBooks();
         this.updateStats();
+    }
+
+    applySorting() {
+        if (this.filters.sortBy === 'dateRead') {
+            this.filteredBooks.sort((a, b) => {
+                if (a.dateRead && b.dateRead) {
+                    return new Date(b.dateRead) - new Date(a.dateRead);
+                }
+                return a.dateRead ? -1 : 1;
+            });
+        } else if (this.filters.sortBy === 'rating') {
+            this.filteredBooks.sort((a, b) => (b.rating || 0) - (a.rating || 0));
+        }
     }
     
     renderBooks() {

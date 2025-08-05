@@ -190,7 +190,7 @@
         {
             "title": "Pedro Páramo",
             "author": "Juan Rulfo",
-            "cover": "assets/covers/pedro.jpg",
+            "cover": "assets/covers/pedro.webp",
             "rating": 5,
             "dateRead": "2025-01-17",
             "tags": [],
@@ -3673,7 +3673,7 @@
             "review": null
         },
         {
-            "title": "Ecce Homo: How One Becomes What One Is; Revised Edition",
+            "title": "Ecce Homo: How One Becomes What One Is",
             "author": "Friedrich Nietzsche",
             "cover": "assets/covers/ecce.jpg",
             "rating": 4.5,

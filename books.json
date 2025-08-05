@@ -1359,7 +1359,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Sci-Fi"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -1367,10 +1367,10 @@
         {
             "title": "Be as You Are: The Teachings of Sri Ramana Maharshi",
             "author": "Sri Ramana Maharshi",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/be-as.jpg",
             "rating": 5,
             "dateRead": "2025-02-07",
-            "tags": [],
+            "tags": ["Indian Philosophy"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -2463,7 +2463,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 4.75,
             "dateRead": "2025-01-27",
-            "tags": [],
+            "tags": ["poetry"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -3675,10 +3675,10 @@
         {
             "title": "Ecce Homo: How One Becomes What One Is; Revised Edition",
             "author": "Friedrich Nietzsche",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/ecce.jpg",
             "rating": 4.5,
             "dateRead": "2025-01-27",
-            "tags": [],
+            "tags": ["Philosophy"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -3884,10 +3884,10 @@
         {
             "title": "লোকায়ত দর্শন",
             "author": "Debiprasad Chattopadhyaya",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/lokayata.jpg",
             "rating": null,
             "dateRead": "2025-02-10",
-            "tags": [],
+            "tags": ["History", "Philosophy", "Indian Philosophy"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -4313,10 +4313,10 @@
         {
             "title": "বেদান্ত  যাপন ১",
             "author": "Swami Sarvapriyananda",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/Vedanta-Yapan.jpg",
             "rating": 5,
             "dateRead": "2025-02-11",
-            "tags": [],
+            "tags": ["Indian Philosophy", "Philosophy"],
             "language": "BN",
             "status": "read",
             "review": null,
@@ -5905,10 +5905,10 @@
         {
             "title": "Valuable Humans in Transit and Other Stories",
             "author": "qntm",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
+            "cover": "assets/covers/valuable.jpg",
+            "rating": 3.5,
             "dateRead": "2025-01-01",
-            "tags": [],
+            "tags": ["Short Story", "Sci-Fi"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -7163,7 +7163,7 @@
         {
             "title": "The Hobbit",
             "author": "J.R.R. Tolkien, Andy Serkis",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/hobbit.jpg",
             "rating": 5,
             "dateRead": "2025-01-13",
             "tags": ["Fantasy", "Classic"],

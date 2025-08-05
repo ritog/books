@@ -7,7 +7,7 @@ class BookGallery {
             tags: [],
             languages: [],
             status: 'read', // Default to showing read books
-            sortBy: 'dateRead',
+            sortBy: 'dateRead', // Default to sorting via date read
             searchTerm: ''
         };
         
@@ -382,6 +382,7 @@ class BookGallery {
     }
     
     updateStats() {
+        // dynamic update of reading stats
         const totalBooks = this.books.length;
         const readBooks = this.books.filter(book => book.status === 'read').length;
         const readingBooks = this.books.filter(book => book.status === 'reading').length;

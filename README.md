@@ -1,3 +1,5 @@
+![social preview image](assets/social-preview.jpg)
+
 # 📚 Rito's Readings
 
 This gallery is live on: https://ritog.github.io/books/

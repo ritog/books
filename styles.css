@@ -448,6 +448,12 @@ body {
     gap: 0.3rem;
 }
 
+.format-icon {
+    margin-left: 0.5rem;
+    font-size: 1.2em;
+    color: #888;
+}
+
 .book-tags {
     display: flex;
     flex-wrap: wrap;

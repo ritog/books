@@ -570,7 +570,7 @@
             "tags": [],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": "audio"
         },
         {
             "title": "Interactive Theorem Proving and Program Development: Coq'art: The Calculus of Inductive Constructions",
@@ -4319,7 +4319,8 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Dopamine Detox : A Short Guide to Remove Distractions and Get Your Brain to Do Hard Things",
@@ -4363,7 +4364,8 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "The Triumph of Christianity: How a Forbidden Religion Swept the World",
@@ -7164,12 +7166,11 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2025-01-13",
-            "tags": [
-                "fantasy"
-            ],
+            "tags": ["Fantasy", "Classic"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "audio"
         },
         {
             "title": "বর্ধমান জেলায় বৌদ্ধ ঐতিহ্যের সন্ধানে",

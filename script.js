@@ -191,6 +191,15 @@ class BookGallery {
         };
         return languages[code] || code;
     }
+
+    getFormatIcon(format) {
+        const icons = {
+            'paper': 'fas fa-book-open',
+            'ebook': 'fas fa-tablet-alt',
+            'audio': 'fas fa-headphones'
+        };
+        return icons[format] || '';
+    }
     
     updateFilters() {
         // Get all checked checkboxes
@@ -312,6 +321,7 @@ class BookGallery {
         const tags = book.tags.map(tag => `<span class="tag">${tag}</span>`).join('');
         const dateDisplay = book.dateRead ? this.formatDate(book.dateRead) : 'Not read yet';
         const reviewLink = book.review ? `<a href="${book.review}" target="_blank" class="review-link"><i class="fas fa-external-link-alt"></i> Read Review</a>` : '';
+        const formatIcon = this.getFormatIcon(book.format);
         
         let statusText = '';
         if (book.status === 'read') {
@@ -339,6 +349,7 @@ class BookGallery {
                         <div class="book-date">
                             <i class="fas fa-calendar"></i>
                             ${dateDisplay}
+                            ${formatIcon ? `<i class="${formatIcon} format-icon"></i>` : ''}
                         </div>
                         <div class="book-language">
                             <i class="fas fa-globe"></i>

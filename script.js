@@ -319,7 +319,14 @@ class BookGallery {
     createBookCard(book) {
         const stars = '★'.repeat(book.rating) + '☆'.repeat(5 - book.rating);
         const tags = book.tags.map(tag => `<span class="tag">${tag}</span>`).join('');
-        const dateDisplay = book.dateRead ? this.formatDate(book.dateRead) : 'Not read yet';
+        let dateDisplay;
+        if (book.dateRead) {
+            dateDisplay = this.formatDate(book.dateRead);
+        } else if (book.status === 'read') {
+            dateDisplay = '-';
+        } else {
+            dateDisplay = 'Not read yet';
+        }
         const reviewLink = book.review ? `<a href="${book.review}" target="_blank" class="review-link"><i class="fas fa-external-link-alt"></i> Read Review</a>` : '';
         const formatIcon = this.getFormatIcon(book.format);
         

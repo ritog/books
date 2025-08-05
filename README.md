@@ -1,16 +1,29 @@
-# 📚 My Book Gallery
+# 📚 Rito's Readings
 
-A beautiful, responsive book gallery website to showcase your reading collection. Features a grid layout with hover effects, filtering by tags and languages, and easy data management through JSON.
+This gallery is live on: https://ritog.github.io/books/
+
+It stores a collection of books I've read and want to read, showcasing them in a beautiful, responsive gallery format.
+
+---
+
+### Using the software:
+
+You can use the code for your own books gallery, by just editing the [books.json](books.json) file. It's zero maintainance, free, and you don't need to know how to write code.
+
+# My Book Gallery
+
+A beautiful, responsive book gallery website to showcase your reading collection. Features a grid layout with hover effects, filtering by tags, languages, and reading status, and easy data management through JSON.
 
 ## ✨ Features
 
 - **Beautiful Grid Layout**: Responsive book cover grid that adapts to any screen size
 - **Hover Effects**: Book details appear on hover with smooth animations
-- **Advanced Filtering**: Filter by tags, languages, and reading status
-- **Search Functionality**: Search through titles, authors, and tags
+- **Advanced Filtering**: Filter by tags, languages, and reading status (Read, Reading, Want to Read)
+- **Search Functionality**: Search through titles and authors
 - **Multi-language Support**: Display books in different languages
-- **Reading Statistics**: Track total books, read, and want-to-read counts
+- **Reading Statistics**: Track total books, read, reading, and want-to-read counts
 - **Easy Data Management**: Simple JSON format for adding/removing books
+- **Local Cover Support**: Use local image files for book covers (e.g., `assets/covers/my-book.jpg`)
 - **Zero Maintenance**: Static site that works without any backend
 
 ## 🚀 Quick Start
@@ -41,7 +54,8 @@ Edit the `books.json` file to add your books:
       "tags": ["Fantasy", "Adventure"],
       "language": "EN",
       "status": "read",
-      "review": "https://goodreads.com/review/123"
+      "review": "https://goodreads.com/review/123",
+      "format": "paper"
     }
   ]
 }
@@ -58,8 +72,9 @@ Edit the `books.json` file to add your books:
 | `dateRead` | string/null | Date finished (YYYY-MM-DD)               | "2024-01-15"                    |
 | `tags`     | array       | Book categories                          | ["Sci-Fi", "Classic"]           |
 | `language` | string      | Language code                            | "EN", "ES", "FR"                |
-| `status`   | string      | "read" or "want-to-read"                 | "read"                          |
-| `review`   | string/null | Review link                              | "https://goodreads.com/..."     |
+| `status`   | string      | "read", "reading", or "want-to-read"     | "read"                          |
+| `review`   | string/null | Review link                              | "https://substack.com/..."      |
+| `format`   | string/null | Format of the book (paper, ebook, audio) | "paper"                         |
 
 ### Supported Languages
 
@@ -150,12 +165,12 @@ The site automatically adapts to:
 ### Local Development
 
 - Use a local server to avoid CORS issues
-- Python: `python -m http.server 8000`
-- Node.js: `npx serve .`
+- Python: `python -m http.server 8000` [I used this one]
+- Node.js: `npx serve`
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [Apache License, Version 2.0](LICENSE).
 
 ## 🤝 Contributing
 

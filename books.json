@@ -127,7 +127,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 4.25,
             "dateRead": "2024-11-10",
-            "tags": [],
+            "tags": ["Historical Fiction", "Sci-Fi"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -210,12 +210,12 @@
             "review": null
         },
         {
-            "title": "Pruebas y refutaciones",
+            "title": "Proofs and Refutations",
             "author": "Imre Lakatos",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Mathematics"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -245,17 +245,6 @@
         {
             "title": "The Information: A History, a Theory, a Flood",
             "author": "James Gleick",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "Finge || ржлрж┐ржЩрзЗ",
-            "author": "Smaranjit Chakraborty",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
@@ -353,10 +342,10 @@
             "review": null
         },
         {
-            "title": "ржжрзБрж░рзНржЧрзЗрж╢ржиржирзНржжрж┐ржирзА",
+            "title": "বঙ্গদেশের কৃষক",
             "author": "Bankim Chandra Chattopadhyay",
             "cover": "assets/covers/book-place.jpg",
-            "rating": 5,
+            "rating": null,
             "dateRead": null,
             "tags": [],
             "language": "EN",
@@ -479,7 +468,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": "2024-06-18",
-            "tags": [],
+            "tags": ["Classic", "Fiction"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -501,7 +490,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": "2023-05-18",
-            "tags": [],
+            "tags": ["Action", "Fiction"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -534,7 +523,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": "2024-12-30",
-            "tags": [],
+            "tags": ["indian-history", "History"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -578,7 +567,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["CS"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -622,7 +611,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2020-08-13",
-            "tags": [],
+            "tags": ["Non Fiction", "History"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -699,7 +688,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Sci-Fi"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -738,17 +727,6 @@
             "review": null
         },
         {
-            "title": "The Way of Zen",
-            "author": "Alan Watts",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "The Art of Game Design: A Book of Lenses",
             "author": "Jesse Schell",
             "cover": "assets/covers/book-place.jpg",
@@ -765,7 +743,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["indian-history", "History"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -776,20 +754,9 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": "2020-10-26",
-            "tags": [],
+            "tags": ["Literature", "Non Fiction"],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "Tomorrow, and Tomorrow, and Tomorrow",
-            "author": "Gabrielle Zevin",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -1145,17 +1112,6 @@
             "review": null
         },
         {
-            "title": "The Foundation Trilogy",
-            "author": "Isaac Asimov",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Five Point Someone",
             "author": "Chetan Bhagat",
             "cover": "assets/covers/book-place.jpg",
@@ -1183,7 +1139,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["CS"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -1285,17 +1241,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "আদর্শ হিন্দু হোটেল",
-            "author": "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "BN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -1480,7 +1425,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2021-01-29",
-            "tags": [],
+            "tags": ["Indian Philosophy", "indian-history"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -1970,17 +1915,6 @@
             "review": null
         },
         {
-            "title": "The Time Traveler's Wife",
-            "author": "Audrey Niffenegger",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Superforecasting: The Art and Science of Prediction",
             "author": "Philip E. Tetlock",
             "cover": "assets/covers/book-place.jpg",
@@ -2460,7 +2394,7 @@
         {
             "title": "ভাঁজো লো কলকলানি",
             "author": "Prasanta Malla",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/bhanjo.jpeg",
             "rating": 4.75,
             "dateRead": "2025-01-27",
             "tags": ["poetry"],
@@ -2564,7 +2498,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Classic", "Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2604,7 +2538,7 @@
         },
         {
             "title": "In the Buddha's Words: An Anthology of Discourses from the Pali Canon",
-            "author": "Bodhi",
+            "author": "Bhikshu Bodhi",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
@@ -2630,7 +2564,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Science"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2691,30 +2625,8 @@
             "review": null
         },
         {
-            "title": "The Two Towers",
-            "author": "J.R.R. Tolkien",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": 4,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "The Craft of Intelligence: America's Legendary Spy Master on the Fundamentals of Intelligence Gathering for a Free World",
             "author": "Allen W. Dulles",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
-            "author": "Matthew Walker",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
@@ -2801,15 +2713,16 @@
             "review": null
         },
         {
-            "title": "Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice",
+            "title": "Zen Mind, Beginner's Mind",
             "author": "Shunryu Suzuki",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
+            "cover": "assets/covers/zen.jpg",
+            "rating": 5,
+            "dateRead": "2025-05-03",
+            "tags": ["Philosophy", "Meditation", "Buddhism"],
             "language": "EN",
-            "status": "want-to-read",
-            "review": null
+            "status": "read",
+            "review": null,
+            "format": "audio"
         },
         {
             "title": "দেবশিশু",
@@ -2889,17 +2802,6 @@
             "review": null
         },
         {
-            "title": "The Selfish Gene",
-            "author": "Richard Dawkins",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Against the Gods: The Remarkable Story of Risk",
             "author": "Peter L. Bernstein",
             "cover": "assets/covers/book-place.jpg",
@@ -2957,17 +2859,6 @@
         {
             "title": "Immune: A Journey Into the Mysterious System That Keeps You Alive",
             "author": "Philipp Dettmer",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "How to Be Alone",
-            "author": "Jonathan Franzen",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
@@ -3037,7 +2928,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Science"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -3164,34 +3055,12 @@
             "review": null
         },
         {
-            "title": "Quantum Theory: Concepts and Methods",
-            "author": "A. Peres",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "Matrix Analysis",
-            "author": "Rajendra Bhatia",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Origin",
             "author": "Dan Brown",
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Thriller"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -3585,23 +3454,12 @@
             "review": "https://ritogh.substack.com/p/not-merely-a-story-of-a-man-facing"
         },
         {
-            "title": "The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design",
-            "author": "Richard Dawkins",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "এটুকু বৃষ্টি...",
             "author": "Smaranjit Chakraborty",
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Romance", "Fiction"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -3620,13 +3478,14 @@
         {
             "title": "Flatland: A Romance of Many Dimensions",
             "author": "Edwin A. Abbott",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/flatland.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Sci-Fi"],
             "language": "EN",
-            "status": "want-to-read",
-            "review": null
+            "status": "reading",
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "A History of Western Philosophy",
@@ -3709,7 +3568,7 @@
             "title": "মধুসূদন রচনাবলী",
             "author": "Michael Madhusudan Dutt",
             "cover": "assets/covers/book-place.jpg",
-            "rating": 5,
+            "rating": null,
             "dateRead": null,
             "tags": [],
             "language": "BN",
@@ -3750,23 +3609,12 @@
             "review": null
         },
         {
-            "title": "Quicksilver",
-            "author": "Neal Stephenson",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "How to Lie with Statistics",
             "author": "Darrell Huff",
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2019-07-24",
-            "tags": [],
+            "tags": ["Mathematics", "Non Fiction"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -3950,13 +3798,14 @@
         {
             "title": "Exhalation",
             "author": "Ted Chiang",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/exhal.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Short Story", "Sci-Fi"],
             "language": "EN",
-            "status": "want-to-read",
-            "review": null
+            "status": "reading",
+            "review": null,
+            "format": "audio"
         },
         {
             "title": "Computer Systems: A Programmer's Perspective",
@@ -3964,7 +3813,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["CS"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -4250,7 +4099,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": "2018-05-20",
-            "tags": [],
+            "tags": ["Short Story"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -4445,13 +4294,13 @@
             "review": null
         },
         {
-            "title": "Bijñānī Meghanāda Sāhā",
+            "title": "বিজ্ঞানী মেঘনাদ সাহা",
             "author": "Praśānta Prāmāṇika",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
-            "language": "EN",
+            "tags": ["Biography", "Science"],
+            "language": "BN",
             "status": "want-to-read",
             "review": null
         },
@@ -4461,10 +4310,11 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2020-12-30",
-            "tags": [],
+            "tags": ["Classic", "Literature", "Absurd"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "ebook"
         },
         {
             "title": "হা রে রে রে রে রে",
@@ -4472,7 +4322,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Short Story", "Historical Fiction"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -4639,7 +4489,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["CS"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -4686,17 +4536,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "The Complete Sherlock Holmes",
-            "author": "Arthur Conan Doyle",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -4771,7 +4610,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Biography", "Art", "History"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -4895,17 +4734,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "The Ocean at the End of the Lane",
-            "author": "Neil Gaiman",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -5340,26 +5168,16 @@
             "review": null
         },
         {
-            "title": "The Complete Sherlock Holmes, Volume II",
-            "author": "Kyle Freeman, Arthur Conan Doyle",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "ржХрзГрж╖рзНржгржжрзНржмрзИржкрж╛ржпрж╝ржи ржмрзНржпрж╛рж╕ ржХрзГржд ржорж╣рж╛ржнрж╛рж░ржд",
+            "title": "মহাভারত",
             "author": "Rajshekhar Basu",
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2019-09-24",
-            "tags": [],
+            "tags": ["Epic"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "The Alchemist",
@@ -5389,7 +5207,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Mathematics"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5713,17 +5531,6 @@
             "tags": [],
             "language": "EN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "Algorithms to Live by: The Computer Science of Human Decisions",
-            "author": "Tom Griffiths, Brian Christian",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -6123,12 +5930,12 @@
             "review": null
         },
         {
-            "title": "মণিমঞ্জুষা - MANIMANJUSHA",
-            "author": "ঐশ্বর্য বিশ্বাস, মধুমিতা চক্রবর্তী, শ্রেয়সী চক্রবর্তী, উমা চট্টোপাধ্যায়, রোহিণী ধর্মপাল, সুমন দাস",
+            "title": "মণিমঞ্জুষা",
+            "author": "Rohini Dharmapal (Ed.)",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Buddhism", "History", "indian-history"],
             "language": "BN",
             "status": "want-to-read",
             "review": null
@@ -6167,23 +5974,12 @@
             "review": null
         },
         {
-            "title": "The Fountainhead",
-            "author": "Ayn Rand",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "সীতাগাছের কোলে",
             "author": "Jagannathdeb Mondal",
             "cover": "assets/covers/book-place.jpg",
-            "rating": 5,
+            "rating": 3.75,
             "dateRead": "2021-12-09",
-            "tags": [],
+            "tags": ["poetry"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -6354,17 +6150,6 @@
             "review": null
         },
         {
-            "title": "1Q84",
-            "author": "Haruki Murakami",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Crime and Punishment",
             "author": "Fyodor Dostoevsky",
             "cover": "assets/covers/book-place.jpg",
@@ -6477,17 +6262,6 @@
         {
             "title": "Technopoly: The Surrender of Culture to Technology",
             "author": "Neil Postman",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "Främlingen",
-            "author": "Albert Camus",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,

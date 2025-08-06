@@ -186,6 +186,10 @@ If you need help:
 2. Look at the sample data in `books.json`
 3. Open an issue on GitHub
 
+##  Credits
+
+
+<a target="_blank" href="https://icons8.com/icon/7zHti6kvre5d/story-book">Story Book</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 ---
 
 **Happy Reading! 📚✨**

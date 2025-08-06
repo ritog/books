@@ -651,7 +651,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": "2024-12-30",
-            "tags": ["indian-history", "History"],
+            "tags": ["Indian History", "History"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -871,7 +871,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": ["indian-history", "History"],
+            "tags": ["Indian History", "History"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -1553,7 +1553,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2021-01-29",
-            "tags": ["Indian Philosophy", "indian-history"],
+            "tags": ["Indian Philosophy", "Indian History"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -2525,7 +2525,7 @@
             "cover": "assets/covers/bhanjo.jpeg",
             "rating": 4.75,
             "dateRead": "2025-01-27",
-            "tags": ["poetry"],
+            "tags": ["Poetry"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -2559,7 +2559,7 @@
             "rating": 4,
             "dateRead": "2019-08-29",
             "tags": [
-                "indian-history"
+                "Indian History"
             ],
             "language": "EN",
             "status": "read",
@@ -6052,7 +6052,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": ["Buddhism", "History", "indian-history"],
+            "tags": ["Buddhism", "History", "Indian History"],
             "language": "BN",
             "status": "want-to-read",
             "review": null
@@ -6096,7 +6096,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 3.75,
             "dateRead": "2021-12-09",
-            "tags": ["poetry"],
+            "tags": ["Poetry"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -6559,7 +6559,7 @@
             "rating": 5,
             "dateRead": "2019-10-15",
             "tags": [
-                "poetry"
+                "Poetry"
             ],
             "language": "BN",
             "status": "read",

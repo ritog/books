@@ -1,6 +1,134 @@
 {
     "books": [
         {
+            "title": "পরমার্থ প্রসঙ্গ",
+            "author": "Swami Birajananda",
+            "cover": "assets/covers/paramartha.jpg",
+            "rating": 3.75,
+            "dateRead": "2025-06-09",
+            "tags": ["Indian Philosophy", "Philosophy"],
+            "language": "BN",
+            "status": "read",
+            "review": null,
+            "format": "paper"
+        },
+        {
+            "title": "শ্রীশ্রীরামকৃষ্ণ উপদেশ",
+            "author": "Swami Brahmananda",
+            "cover": "assets/covers/rk-upa.jpg",
+            "rating": 4.5,
+            "dateRead": "2025-06-09",
+            "tags": ["Indian Philosophy", "Philosophy"],
+            "language": "BN",
+            "status": "read",
+            "review": null,
+            "format": "paper"
+        }, 
+        {
+            "title": "Universal Message of Bhagavad Geeta Vol. 2",
+            "author": "Swami Ranganathananda",
+            "cover": "assets/covers/univ2.webp",
+            "rating": 4.5,
+            "dateRead": "2025-06-20",
+            "tags": ["Indian Philosophy", "Philosophy"],
+            "language": "EN",
+            "status": "read",
+            "review": null,
+            "format": "ebook"
+        },
+        {
+            "title": "Universal Message of Bhagavad Geeta Vol. 3",
+            "author": "Swami Ranganathananda",
+            "cover": "assets/covers/univ3.jpg",
+            "rating": 4.5,
+            "dateRead": "2025-06-29",
+            "tags": ["Indian Philosophy", "Philosophy"],
+            "language": "EN",
+            "status": "read",
+            "review": null,
+            "format": "ebook"
+        }, 
+        {
+            "title": "Psychology of Money",
+            "author": "Morgan Housel",
+            "cover": "assets/covers/money.jpg",
+            "rating": 4,
+            "dateRead": "2025-06-06",
+            "tags": ["Personal Finance"],
+            "language": "EN",
+            "status": "read",
+            "review": null
+        }, 
+        {
+            "title": "Kokoro",
+            "author": "Natsume Soseki",
+            "cover": "assets/covers/kokoro.webp",
+            "rating": 3.75,
+            "dateRead": "2025-06-11",
+            "tags": ["Foreign", "Classic"],
+            "language": "EN",
+            "status": "read",
+            "review": null
+        }, 
+        {
+            "title": "Leaf Storm",
+            "author": "Gabriel García Márquez",
+            "cover": "assets/covers/leaf.jpg",
+            "rating": 5,
+            "dateRead": "2025-06-23",
+            "tags": ["Foreign", "Classic", "Latin American"],
+            "language": "EN",
+            "status": "read",
+            "review": null
+        }, 
+        {
+            "title": "সবার ঠাকুর শ্রীরামকৃষ্ণ",
+            "author": null,
+            "cover": "assets/covers/rk.jpeg",
+            "rating": 3.5,
+            "dateRead": "2025-07-22",
+            "tags": ["Indian Philosophy", "Philosophy"],
+            "language": "BN",
+            "status": "read",
+            "review": null,
+            "format": "paper"
+        },        
+        {
+            "title": "The Essence of Ribhu Gita",
+            "author": "Sri Ramana Maharshi",
+            "cover": "assets/covers/ribhu.jpg",
+            "rating": 4,
+            "dateRead": "2025-07-01",
+            "tags": ["Indian Philosophy", "Philosophy"],
+            "language": "EN",
+            "status": "read",
+            "review": null,
+            "format": "ebook"
+        },        
+        {
+            "title": "Dṛg-Dṛśya-Viveka",
+            "author": "Bharati Tirtha, Swami Nikhilananda",
+            "cover": "assets/covers/drg.jpeg",
+            "rating": 3,
+            "dateRead": "2025-07-18",
+            "tags": ["Indian Philosophy", "Philosophy"],
+            "language": "EN",
+            "status": "read",
+            "review": null,
+            "format": "ebook"
+        },        
+        {
+            "title": "Things Fall Apart",
+            "author": "Chinua Achebe",
+            "cover": "assets/covers/things.jpg",
+            "rating": 4.5,
+            "dateRead": "20225-07-31",
+            "tags": ["Foreign", "Fiction"],
+            "language": "EN",
+            "status": "read",
+            "review": null
+        },        
+        {
             "title": "Shop Class as Soulcraft: An Inquiry Into the Value of Work",
             "author": "Matthew B. Crawford",
             "cover": "assets/covers/shopclass.jpg",
@@ -4138,17 +4266,6 @@
             "review": null
         },
         {
-            "title": "How Not to Be Wrong: The Hidden Maths of Everyday Life",
-            "author": "Jordan Ellenberg",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": 5,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Brave New World",
             "author": "Aldous Huxley",
             "cover": "assets/covers/book-place.jpg",
@@ -6625,17 +6742,6 @@
             "review": null
         },
         {
-            "title": "The Midnight Library",
-            "author": "Matt Haig",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Alexander the Great: The Macedonian Who Conquered the World",
             "author": "Sean Patrick",
             "cover": "assets/covers/book-place.jpg",
@@ -6748,17 +6854,6 @@
         {
             "title": "The Gift",
             "author": "Lewis Hyde",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "Stardust",
-            "author": "Neil Gaiman",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,

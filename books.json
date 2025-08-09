@@ -1,6 +1,18 @@
 {
     "books": [
         {
+            "title": "Why Greatness Cannot Be Planned",
+            "author": "Joel Lehman, Kenneth Stanley",
+            "cover": "https://m.media-amazon.com/images/I/61PPmbZPGxL._UF1000,1000_QL80_.jpg",
+            "rating": null,
+            "dateRead": null,
+            "tags": ["Non-Fiction"],
+            "language": "EN",
+            "status": "want-to-read",
+            "review": null,
+            "format": null
+        },
+        {
             "title": "পরমার্থ প্রসঙ্গ",
             "author": "Swami Birajananda",
             "cover": "assets/covers/paramartha.jpg",

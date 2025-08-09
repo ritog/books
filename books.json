@@ -1,4 +1,5 @@
-[
+{
+"books" = [
     {
         "title": "Why Greatness Cannot Be Planned",
         "author": "Joel Lehman, Kenneth Stanley",
@@ -619,3 +620,4 @@
         "format": "paper"
     }
 ]
+}

@@ -284,28 +284,6 @@
             "review": null
         },
         {
-            "title": "অগ্নিবাণ",
-            "author": "Sharadindu Bandyopadhyay",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "BN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "No Logo",
-            "author": "Naomi Klein",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "স্পর্শ",
             "author": "Krishnendu Mukhopadhyay",
             "cover": "assets/covers/book-place.jpg",
@@ -317,23 +295,12 @@
             "review": null
         },
         {
-            "title": "Leonardo Da Vinci",
-            "author": "Walter Isaacson",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Pedro Páramo",
             "author": "Juan Rulfo",
             "cover": "assets/covers/pedro.webp",
             "rating": 5,
             "dateRead": "2025-01-17",
-            "tags": [],
+            "tags": ["Latin American", "Surrealism", "Foreign", "Fiction"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -356,17 +323,6 @@
             "rating": null,
             "dateRead": null,
             "tags": ["Mathematics"],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "Emotional Intelligence",
-            "author": "Daniel Goleman",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -413,17 +369,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "Big History: The Big Bang, Life on Earth and the Rise of Humanity",
-            "author": "David Christian",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -490,17 +435,6 @@
             "tags": [],
             "language": "EN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "শামুকখোল",
-            "author": "Tilottama Majumdar",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "BN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -589,17 +523,6 @@
             "tags": [],
             "language": "EN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "How the Mind Works",
-            "author": "Steven Pinker",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -1021,17 +944,6 @@
             "review": null
         },
         {
-            "title": "Thoughts On The Gita",
-            "author": "Swami Vivekananda",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Snow Crash",
             "author": "Neal Stephenson",
             "cover": "assets/covers/book-place.jpg",
@@ -1059,7 +971,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Fiction", "Science", "Mathematics"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -1241,17 +1153,6 @@
             "review": null
         },
         {
-            "title": "Twenty Love Poems and a Song of Despair",
-            "author": "Pablo Neruda",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Five Point Someone",
             "author": "Chetan Bhagat",
             "cover": "assets/covers/book-place.jpg",
@@ -1329,23 +1230,12 @@
             "review": null
         },
         {
-            "title": "The First Man",
-            "author": "Albert Camus",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Permutation City",
             "author": "Greg Egan",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/permutation.jpg",
             "rating": 5,
             "dateRead": "2024-04-11",
-            "tags": [],
+            "tags": ["Sci-Fi"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -1406,17 +1296,6 @@
             "review": null
         },
         {
-            "title": "The Will to Battle",
-            "author": "Ada Palmer",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Empire of Pain: The Secret History of the Sackler Dynasty",
             "author": "Patrick Radden Keefe",
             "cover": "assets/covers/book-place.jpg",
@@ -1430,21 +1309,10 @@
         {
             "title": "Wetware: A Computer in Every Living Cell",
             "author": "Dennis Bray",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/wetware.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "Ball Lightning",
-            "author": "Cixin Liu",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": ["Sci-Fi"],
+            "tags": ["Science", "CS", "Non Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -1527,17 +1395,6 @@
             "review": null
         },
         {
-            "title": "Boy, Snow, Bird",
-            "author": "Helen Oyeyemi",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "The Old Man and the Sea",
             "author": "Ernest Hemingway",
             "cover": "assets/covers/book-place.jpg",
@@ -1549,17 +1406,6 @@
             "review": null
         },
         {
-            "title": "The Language Instinct: How the Mind Creates Language",
-            "author": "Steven Pinker",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "The Argumentative Indian: Writings on Indian History, Culture and Identity",
             "author": "Amartya Sen",
             "cover": "assets/covers/book-place.jpg",
@@ -1568,17 +1414,6 @@
             "tags": ["Indian Philosophy", "Indian History"],
             "language": "EN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "Pride and Prejudice",
-            "author": "Jane Austen",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -1725,17 +1560,6 @@
             "review": null
         },
         {
-            "title": "The Four Loves",
-            "author": "C.S. Lewis",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "The Code Breaker",
             "author": "Walter Isaacson",
             "cover": "assets/covers/book-place.jpg",
@@ -1750,7 +1574,7 @@
             "title": "Oedipus Rex",
             "author": "Sophocles",
             "cover": "assets/covers/book-place.jpg",
-            "rating": 3,
+            "rating": null,
             "dateRead": null,
             "tags": [],
             "language": "EN",
@@ -1835,17 +1659,6 @@
             "review": null
         },
         {
-            "title": "Under the Banner of Heaven",
-            "author": "Jon Krakauer",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "The Little Prince",
             "author": "Antoine de Saint-Exupéry",
             "cover": "assets/covers/book-place.jpg",
@@ -1890,23 +1703,12 @@
             "review": null
         },
         {
-            "title": "Frankenstein",
-            "author": "Mary Shelley",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": 4,
-            "dateRead": null,
-            "tags": ["Sci-Fi", "Classic", "Horror"],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Learn Physics with Functional Programming: A Hands-On Guide to Exploring Physics with Haskell",
             "author": "Scott N Walck",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["CS", "Physics"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -1956,12 +1758,12 @@
             "review": null
         },
         {
-            "title": "বাঙ্গালীর ইতিহাস : আদি পর্ব",
+            "title": "বাঙ্গালীর ইতিহাস: আদি পর্ব",
             "author": "Niharranjan Ray",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["History", "Indian History"],
             "language": "BN",
             "status": "want-to-read",
             "review": null
@@ -2099,17 +1901,6 @@
             "review": null
         },
         {
-            "title": "The Waste Land and Other Poems",
-            "author": "T.S. Eliot",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "The Rise and Fall of D.O.D.O.",
             "author": "Nicole Galland, Neal Stephenson",
             "cover": "assets/covers/book-place.jpg",
@@ -2123,10 +1914,10 @@
         {
             "title": "Future Shock",
             "author": "Alvin Toffler",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/shock.png",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Non Fiction", "Society"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2173,17 +1964,6 @@
             "tags": ["Historical Fiction"],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "Jonathan Abernathy You Are Kind",
-            "author": "Molly McGhee",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -2236,7 +2016,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2269,7 +2049,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Non Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2291,7 +2071,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Non Fiction", "Science"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2460,7 +2240,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Fiction", "Biography", "Science"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2482,7 +2262,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Mathematics", "Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2526,7 +2306,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Self-Help"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2540,17 +2320,6 @@
             "tags": ["Poetry"],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "The Last Unicorn",
-            "author": "Peter S. Beagle",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -2611,17 +2380,6 @@
             "review": null
         },
         {
-            "title": "A Short History of Nearly Everything",
-            "author": "Bill Bryson",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Angels & Demons",
             "author": "Dan Brown",
             "cover": "assets/covers/book-place.jpg",
@@ -2652,17 +2410,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "How Religion Evolved: And Why It Endures",
-            "author": "Robin I.M. Dunbar",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -2734,23 +2481,12 @@
         {
             "title": "Alex's Adventures in Numberland",
             "author": "Alex Bellos",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/alex.jpg",
             "rating": 5,
             "dateRead": "2024-05-05",
-            "tags": [],
+            "tags": ["Non Fiction", "Mathematics"],
             "language": "EN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "The Better Angels of Our Nature: Why Violence Has Declined",
-            "author": "Steven Pinker",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -2759,7 +2495,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Short Story", "Humour"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -2814,7 +2550,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Physics"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2892,7 +2628,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Mathematics"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -2969,7 +2705,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2020-04-08",
-            "tags": [],
+            "tags": ["Non Fiction", "Poetry"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -2986,20 +2722,9 @@
             "review": null
         },
         {
-            "title": "Cosmos",
-            "author": "Carl Sagan",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Immune: A Journey Into the Mysterious System That Keeps You Alive",
             "author": "Philipp Dettmer",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/immune.jpg",
             "rating": null,
             "dateRead": null,
             "tags": [],
@@ -3065,21 +2790,10 @@
         {
             "title": "Every Life Is on Fire: How Thermodynamics Explains the Origins of Living Things",
             "author": "Jeremy England",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/life-fire.jpg",
             "rating": null,
             "dateRead": null,
             "tags": ["Science"],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "The Chronicles of Thomas Covenant, the Unbeliever",
-            "author": "Stephen R. Donaldson",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -3093,17 +2807,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "Cordelia's Honor",
-            "author": "Lois McMaster Bujold",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -3266,7 +2969,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Absurd", "Fiction"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -3294,17 +2997,6 @@
             "review": null
         },
         {
-            "title": "The Man in the High Castle",
-            "author": "Philip K. Dick",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "চিলেকোঠার সেপাই",
             "author": "Akhteruzzaman Elias",
             "cover": "assets/covers/book-place.jpg",
@@ -3316,23 +3008,12 @@
             "review": null
         },
         {
-            "title": "Why Religion?: A Personal Story",
-            "author": "Elaine Pagels",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Problem-Solving Through Problems",
             "author": "Loren C. Larson",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Mathematics"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -3354,7 +3035,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Poetry"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -3426,23 +3107,12 @@
             "review": null
         },
         {
-            "title": "Behave: The Biology of Humans at Our Best and Worst",
-            "author": "Robert M. Sapolsky",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "ন হন্যতে",
             "author": "Maitreyi Devi",
             "cover": "assets/covers/book-place.jpg",
-            "rating": 5,
+            "rating": 3,
             "dateRead": "2020-03-25",
-            "tags": [],
+            "tags": ["Biography"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -3483,10 +3153,10 @@
         {
             "title": "Understanding Institutional Diversity",
             "author": "Elinor Ostrom",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/instt.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Non Fiction", "System"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -3522,17 +3192,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "I, Robot",
-            "author": "Isaac Asimov",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -3699,7 +3358,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Contrarian"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -3710,7 +3369,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Classic"],
             "language": "BN",
             "status": "want-to-read",
             "review": null
@@ -3718,17 +3377,6 @@
         {
             "title": "The Network State: How To Start a New Country",
             "author": "Balaji S. Srinivasan",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "Determined: A Science of Life without Free Will",
-            "author": "Robert M. Sapolsky",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
@@ -3837,17 +3485,6 @@
             "review": null
         },
         {
-            "title": "Last and First Men",
-            "author": "Olaf Stapledon",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "India: From Midnight to the Millennium and Beyond",
             "author": "Shashi Tharoor",
             "cover": "assets/covers/book-place.jpg",
@@ -3905,10 +3542,10 @@
         {
             "title": "What Is Life? with Mind and Matter and Autobiographical Sketches",
             "author": "Erwin Schrödinger",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/what-life.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Philosophy", "Science"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -4080,23 +3717,12 @@
             "review": null
         },
         {
-            "title": "The Extended Phenotype: The Long Reach of the Gene",
-            "author": "Richard Dawkins, Daniel C. Dennett",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "তারাপদ রায় শ্রেষ্ঠ গল্প",
             "author": "Tarapada Roy",
             "cover": "assets/covers/book-place.jpg",
             "rating": 2,
             "dateRead": "2020-07-28",
-            "tags": [],
+            "tags": ["Short Story", "Fiction"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -4135,45 +3761,12 @@
             "review": null
         },
         {
-            "title": "The Ones Who Walk Away from Omelas",
-            "author": "Ursula K. Le Guin",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
-            "author": "Malcolm Gladwell",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "A Mind for Numbers: How to Excel at Math and Science",
-            "author": "Barbara Oakley",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "ইন্দিরা",
             "author": "Bankim Chandra Chattopadhyay",
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": "2020-12-16",
-            "tags": [],
+            "tags": ["Fiction"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -4245,17 +3838,6 @@
             "review": null
         },
         {
-            "title": "Learned Optimism: How to Change Your Mind and Your Life",
-            "author": "Martin Seligman",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "বোম্বাইয়ের বোম্বেটে",
             "author": "Satyajit Ray",
             "cover": "assets/covers/book-place.jpg",
@@ -4269,17 +3851,6 @@
         {
             "title": "Ludwig Wittgenstein: The Duty of Genius",
             "author": "Ray Monk",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "Brave New World",
-            "author": "Aldous Huxley",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
@@ -4424,7 +3995,7 @@
         },
         {
             "title": "বিজ্ঞানী মেঘনাদ সাহা",
-            "author": "Praśānta Prāmāṇika",
+            "author": "Prasanta Pramanik",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
@@ -4476,17 +4047,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "O Henry- Collected Stories",
-            "author": "O. Henry",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": ["Fiction"],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -4646,17 +4206,6 @@
             "review": null
         },
         {
-            "title": "Greenlights",
-            "author": "Matthew McConaughey",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "বিপিনবাবুর বিপদ",
             "author": "Shirshendu Mukhopadhyay",
             "cover": "assets/covers/book-place.jpg",
@@ -4679,23 +4228,12 @@
             "review": null
         },
         {
-            "title": "A Grief Observed",
-            "author": "C.S. Lewis",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Why I am a Hindu",
             "author": "Shashi Tharoor",
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2020-06-04",
-            "tags": [],
+            "tags": ["Society", "Philosophy"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -5189,10 +4727,10 @@
         {
             "title": "Stories of Your Life and Others",
             "author": "Ted Chiang",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/life-chiang.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Sci-Fi", "Short Story"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5225,7 +4763,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["CS", "Mathematics", "Text"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5247,7 +4785,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Russian", "Fiction", "Classic"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5291,7 +4829,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Philosophy"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5336,7 +4874,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": ["Mathematics"],
+            "tags": ["Mathematics", "Biography"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5372,17 +4910,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "The Illuminatus! Trilogy: The Eye in the Pyramid, the Golden Apple, Leviathan",
-            "author": "Robert Shea",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -5424,7 +4951,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["CS", "Text"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5484,17 +5011,6 @@
             "tags": [],
             "language": "EN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "Twenty Love Poems and a Song of Despair",
-            "author": "Pablo Neruda",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -5576,11 +5092,11 @@
         },
         {
             "title": "Under the Spell of Landau: When Theoretical Physics Was Shaping Destinies",
-            "author": "",
+            "author": "Mikhail Shifman (Ed.)",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Science", "History"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5635,7 +5151,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Contrarian", "Philosophy"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5663,23 +5179,12 @@
             "review": null
         },
         {
-            "title": "Great Expectations",
-            "author": "Charles Dickens",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Advice Not Given: A Guide to Getting Over Yourself",
             "author": "Mark Epstein",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Buddhism", "Self-Help"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5795,48 +5300,16 @@
             "review": null
         },
         {
-            "title": "The Idea of India",
-            "author": "Sunil Khilnani",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "The Iliad",
-            "author": "Homer",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": 5,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "Wuthering Heights",
-            "author": "Emily Brontë",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "রূপমঞ্জরী ২",
             "author": "Narayan Sanyal",
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2021-04-10",
-            "tags": [],
+            "tags": ["Historical Fiction", "Indian History", "Fiction"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Valuable Humans in Transit and Other Stories",
@@ -5910,7 +5383,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Humour"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5921,7 +5394,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Meditation", "Buddhism"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -5938,23 +5411,12 @@
             "review": null
         },
         {
-            "title": "Mostly Harmless",
-            "author": "Douglas Adams",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "The Book of Why: The New Science of Cause and Effect",
             "author": "Judea Pearl, Dana MacKenzie",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Mathematics", "Non Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -6004,17 +5466,6 @@
             "review": null
         },
         {
-            "title": "Seven Surrenders",
-            "author": "Ada Palmer",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "কুড়িয়ে পাওয়া পেনড্রাইভ",
             "author": "Suchitra Bhattacharya",
             "cover": "assets/covers/book-place.jpg",
@@ -6031,7 +5482,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": "2020-04-04",
-            "tags": [],
+            "tags": ["Politics", "Memoir"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -6114,23 +5565,12 @@
             "review": null
         },
         {
-            "title": "Gingerbread",
-            "author": "Helen Oyeyemi",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Anathem",
             "author": "Neal Stephenson",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/anathem.jpg",
             "rating": 5,
             "dateRead": "2024-03-27",
-            "tags": [],
+            "tags": ["Sci-Fi"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -6141,7 +5581,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Memoir"],
             "language": "BN",
             "status": "want-to-read",
             "review": null
@@ -6174,7 +5614,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Mathematics", "Non Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -6185,7 +5625,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 3.75,
             "dateRead": "2024-12-29",
-            "tags": [],
+            "tags": ["Indian Philosophy"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -6279,17 +5719,6 @@
             "review": null
         },
         {
-            "title": "Crime and Punishment",
-            "author": "Fyodor Dostoevsky",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "হ য ব র ল",
             "author": "Sukumar Ray",
             "cover": "assets/covers/book-place.jpg",
@@ -6298,7 +5727,8 @@
             "tags": ["Fiction", "Absurd", "Classic"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "বৌদ্ধধর্ম",
@@ -6328,7 +5758,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Mathematics", "Non Fiction"],
             "language": "BN",
             "status": "want-to-read",
             "review": null
@@ -6345,23 +5775,12 @@
             "review": null
         },
         {
-            "title": "The Golden Compass",
-            "author": "Philip Pullman",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "The Kite Runner",
             "author": "Khaled Hosseini",
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": "2016-06-30",
-            "tags": [],
+            "tags": ["Foreign", "Fiction"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -6405,7 +5824,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2023-04-30",
-            "tags": [],
+            "tags": ["Epic"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -6422,23 +5841,12 @@
             "review": null
         },
         {
-            "title": "essay on learning and motivation",
-            "author": "Michael Nielsen",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "A Beautiful Mind",
             "author": "Sylvia Nasar",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Biography", "Mathematics"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -6532,23 +5940,12 @@
             "review": null
         },
         {
-            "title": "Po: Beyond Yes and No",
-            "author": "Edward de Bono",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Killing the Rising Sun: How America Vanquished World War II Japan",
             "author": "Bill O'Reilly, Martin Dugard",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["History"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -6589,23 +5986,12 @@
             "review": null
         },
         {
-            "title": "How to Make a Complete Map of Every Thought You Think",
-            "author": "Lion Kimbro",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "সুকুমার রচনা সমগ্র",
             "author": "Sukumar Ray",
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": "2012-12-31",
-            "tags": [],
+            "tags": ["Humour", "Fiction"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -6641,17 +6027,6 @@
             "tags": [],
             "language": "EN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "No Country for Old Men",
-            "author": "Cormac McCarthy",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -6715,7 +6090,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Poetry"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -6734,21 +6109,10 @@
         {
             "title": "We",
             "author": "Yevgeny Zamyatin",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/we.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
-            "title": "The Blank Slate: The Modern Denial of Human Nature",
-            "author": "Steven Pinker",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
+            "tags": [:"Sci-Fi"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -6759,7 +6123,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 5,
             "dateRead": null,
-            "tags": [],
+            "tags": ["History", "Biography"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -6784,17 +6148,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "Too Like the Lightning",
-            "author": "Ada Palmer",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -6831,17 +6184,6 @@
             "review": null
         },
         {
-            "title": "Rakesfall",
-            "author": "Vajra Chandrasekera",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "Surely You're Joking, Mr. Feynman!",
             "author": "Richard P. Feynman",
             "cover": "assets/covers/book-place.jpg",
@@ -6858,10 +6200,11 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Historical Fiction"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "The Gift",
@@ -6877,10 +6220,10 @@
         {
             "title": "Out of Control: The New Biology of Machines, Social Systems, and the Economic World",
             "author": "Kevin Kelly",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/oocontrol.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Science", "Non Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -6891,7 +6234,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Historical Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -6970,7 +6313,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Art"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -6981,7 +6324,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": 3,
             "dateRead": "2021-10-02",
-            "tags": [],
+            "tags": ["Contrarian", "Non Fiction"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -7011,10 +6354,10 @@
         {
             "title": "The Perennial Philosophy",
             "author": "Aldous Huxley",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/perennial.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Philosophy"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -7028,17 +6371,6 @@
             "tags": [],
             "language": "BN",
             "status": "read",
-            "review": null
-        },
-        {
-            "title": "When Breath Becomes Air",
-            "author": "Paul Kalanithi",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
             "review": null
         },
         {
@@ -7076,23 +6408,12 @@
             "review": null
         },
         {
-            "title": "Every Man for Himself and God Against All: A Memoir",
-            "author": "Werner Herzog",
-            "cover": "assets/covers/book-place.jpg",
-            "rating": null,
-            "dateRead": null,
-            "tags": [],
-            "language": "EN",
-            "status": "want-to-read",
-            "review": null
-        },
-        {
             "title": "The Dawn of Everything",
             "author": "David Wengrow, David Graeber",
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Contrarian", "History", "Non Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -7103,7 +6424,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["CS", "Text"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -7120,12 +6441,12 @@
             "review": null
         },
         {
-            "title": "Contra el método",
+            "title": "Against Method",
             "author": "Paul Karl Feyerabend",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/method.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Science", "Non Fiction", "Contrarian"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -7155,24 +6476,26 @@
         {
             "title": "His Majesty's Opponent: Subhas Chandra Bose and India's Struggle against Empire",
             "author": "Sugata Bose",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/opponent.jpg",
             "rating": null,
             "dateRead": null,
             "tags": [],
             "language": "EN",
             "status": "want-to-read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Old Path White Clouds: Walking in the Footsteps of the Buddha",
             "author": "Thích Nhất Hạnh",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/oldpath.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Buddhism", "History", "Biography"],
             "language": "EN",
             "status": "want-to-read",
-            "review": null
+            "review": null,
+            "format": "paper"
         }
     ]
 }

@@ -157,7 +157,7 @@
             "cover": "assets/covers/sei-somoy.jpg",
             "rating": 5,
             "dateRead": "2014-12-31",
-            "tags": [],
+            "tags": ["Historical Fiction"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -177,7 +177,7 @@
             "title": "মেঘনাদবধ কাব্য",
             "author": "Michael Madhusudan Dutt",
             "cover": "assets/covers/book-place.jpg",
-            "rating": 5,
+            "rating": null,
             "dateRead": null,
             "tags": [],
             "language": "BN",
@@ -242,10 +242,10 @@
         {
             "title": "Siddhartha",
             "author": "Hermann Hesse",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/siddhartha.jpg",
             "rating": 5,
             "dateRead": "2019-05-11",
-            "tags": [],
+            "tags": ["Historical Fiction", "Philosophy", "Fiction", "Classic"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -495,13 +495,14 @@
         {
             "title": "মরুতীর্থ হিংলাজ",
             "author": "Abadhut",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/hinglaj.jpg",
             "rating": 5,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Fiction"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "আম্রপালী",
@@ -604,14 +605,15 @@
         },
         {
             "title": "The Dhammapada",
-            "author": "",
-            "cover": "assets/covers/book-place.jpg",
+            "author": "Gautama Buddha",
+            "cover": "assets/covers/dhammapada.jpg",
             "rating": 5,
             "dateRead": "2019-05-27",
-            "tags": [],
+            "tags": ["Buddhism", "Indian Philosophy", "Philosophy"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "ebook"
         },
         {
             "title": "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom...Why the Meaningful Life is Closer Than You Think",
@@ -671,7 +673,7 @@
         {
             "title": "লাল নীল দীপাবলি বা বাঙলা সাহিত্যের জীবনী",
             "author": "Humayun Azad",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/lal-neel.jpg",
             "rating": 5,
             "dateRead": "2020-08-13",
             "tags": ["Non Fiction", "History"],
@@ -727,7 +729,7 @@
             "title": "A Tale of Two Cities",
             "author": "Charles Dickens",
             "cover": "assets/covers/book-place.jpg",
-            "rating": 5,
+            "rating": null,
             "dateRead": null,
             "tags": [],
             "language": "EN",
@@ -737,13 +739,14 @@
         {
             "title": "Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time",
             "author": "Richard P. Feynman",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/6-not.jpg",
             "rating": 5,
             "dateRead": "2018-05-01",
-            "tags": [],
+            "tags": ["Physics", "Science", "Non Fiction", "Text"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Children of Time",
@@ -770,13 +773,14 @@
         {
             "title": "নীলকন্ঠ পাখির খোঁজে",
             "author": "Atin Bandyopadhyay",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/nilkantha.jpg",
             "rating": 5,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Historical Fiction"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "In the Beginning...Was the Command Line",
@@ -825,10 +829,10 @@
         {
             "title": "The Wisdom of No Escape: How to Love Yourself and Your World",
             "author": "Pema Chödrön",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/no-escape.jpg",
             "rating": 5,
             "dateRead": "2022-11-29",
-            "tags": [],
+            "tags": ["Philosophy"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -957,13 +961,14 @@
         {
             "title": "Cryptonomicon",
             "author": "Neal Stephenson",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/crypto.jpg",
             "rating": 5,
             "dateRead": "2021-10-31",
-            "tags": [],
+            "tags": ["Sci-Fi"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Stella Maris",
@@ -1002,9 +1007,9 @@
             "title": "একজন কমলালেবু",
             "author": "Shahaduz Zaman",
             "cover": "assets/covers/book-place.jpg",
-            "rating": 5,
+            "rating": null,
             "dateRead": "2020-09-21",
-            "tags": [],
+            "tags": ["Biography"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -1045,13 +1050,14 @@
         {
             "title": "বৃক্ষ অনুবাদক",
             "author": "Srijato",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/briksha.jpg",
             "rating": 5,
             "dateRead": "2019-08-31",
-            "tags": [],
+            "tags": ["Fiction", "Literature"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "মেঘ-ছেঁড়া রোদ",
@@ -1144,10 +1150,10 @@
         {
             "title": "কবি",
             "author": "Tarashankar Bandyopadhyay",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/kobi.jpg",
             "rating": 5,
             "dateRead": "2019-07-13",
-            "tags": [],
+            "tags": ["Poetry"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -1188,13 +1194,14 @@
         {
             "title": "রক্তকরবী",
             "author": "Rabindranath Tagore",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/raktakarabi.jpg",
             "rating": 5,
             "dateRead": "2013-12-31",
-            "tags": [],
+            "tags": ["Play", "Classic"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "ধাত্রীদেবতা",
@@ -1288,9 +1295,9 @@
             "title": "Ben-Hur: A Tale of the Christ",
             "author": "Lew Wallace",
             "cover": "assets/covers/book-place.jpg",
-            "rating": 5,
+            "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Historical Fiction"],
             "language": "EN",
             "status": "want-to-read",
             "review": null
@@ -1326,7 +1333,8 @@
             "tags": ["Indian Philosophy"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Molecular Biology of the Cell",
@@ -1397,24 +1405,25 @@
         {
             "title": "The Old Man and the Sea",
             "author": "Ernest Hemingway",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/old-man.jpg",
             "rating": 5,
             "dateRead": "2019-03-01",
-            "tags": [],
+            "tags": ["Classic", "Fiction"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": "https://ritobrataghosh.wordpress.com/2021/04/10/old-man-and-the-sea-review/"
         },
         {
             "title": "The Argumentative Indian: Writings on Indian History, Culture and Identity",
             "author": "Amartya Sen",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/argument.jpg",
             "rating": 5,
             "dateRead": "2021-01-29",
-            "tags": ["Indian Philosophy", "Indian History"],
+            "tags": ["Indian Philosophy", "Indian History", "Non Fiction"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win",
@@ -1474,32 +1483,33 @@
         {
             "title": "The Diamond Age: Or, a Young Lady's Illustrated Primer",
             "author": "Neal Stephenson",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/diamond.jpg",
             "rating": 5,
             "dateRead": "2023-06-08",
-            "tags": [],
+            "tags": ["Sci-Fi"],
             "language": "EN",
             "status": "read",
             "review": null
         },
         {
             "title": "গীতগোবিন্দ",
-            "author": "Jayadeva Goswami, Bijay Chandra Majumdar",
-            "cover": "assets/covers/book-place.jpg",
+            "author": "Jayadeva Goswami, Bijay Chandra Majumdar (Trans.)",
+            "cover": "assets/covers/gg.png",
             "rating": 5,
             "dateRead": "2020-06-19",
-            "tags": [],
-            "language": "BN",
+            "tags": ["Sanskrit Literature", "Classic", "Poetry"],
+            "language": "SA",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Tao Te Ching: A New English Version",
-            "author": "Laozi",
-            "cover": "assets/covers/book-place.jpg",
+            "author": "Laozi, Stephen Mitchel (Trans.)",
+            "cover": "assets/covers/tao.jpg",
             "rating": 5,
             "dateRead": "2024-01-28",
-            "tags": [],
+            "tags": ["Philosophy"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -1661,13 +1671,14 @@
         {
             "title": "The Little Prince",
             "author": "Antoine de Saint-Exupéry",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/little-prince.jpg",
             "rating": 5,
             "dateRead": "2020-12-28",
             "tags": ["Classic", "Fiction"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "The Complete Maus",
@@ -1733,7 +1744,8 @@
             "tags": ["Classic", "Fiction", "Latin American"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "One Night @ the Call Center",
@@ -1881,13 +1893,14 @@
         {
             "title": "The Innovators: How a Group of  Hackers, Geniuses and Geeks Created the Digital Revolution",
             "author": "Walter Isaacson",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/innovators.jpg",
             "rating": 5,
             "dateRead": "2020-03-02",
             "tags": ["Technology", "History", "Science", "Biography"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Augustus",
@@ -1925,7 +1938,7 @@
         {
             "title": "বাঙালি মেয়ের যৌনতা",
             "author": "Arnab Saha",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/jounota.jpg",
             "rating": 5,
             "dateRead": "2020-10-14",
             "tags": ["Non Fiction", "History"],
@@ -2002,13 +2015,14 @@
         {
             "title": "A Brief History of Time",
             "author": "Stephen Hawking",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/brief.jpg",
             "rating": 5,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Science", "Non Fiction"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Cloudstreet",
@@ -2225,14 +2239,15 @@
         },
         {
             "title": "পাগলা দাশু",
-            "author": "Sujog Bandyopadhyay, Sukumar Ray",
-            "cover": "assets/covers/book-place.jpg",
+            "author": "Sukumar Ray",
+            "cover": "assets/covers/pagla.jpg",
             "rating": 5,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Fiction", "Short Story", "Humour"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "The MANIAC",
@@ -2325,13 +2340,14 @@
         {
             "title": "Anna Karenina",
             "author": "Leo Tolstoy",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/anna.jpeg",
             "rating": 5,
             "dateRead": "2023-08-08",
-            "tags": [],
+            "tags": ["Foreign", "Classic", "Russian", "Fiction"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "India After Gandhi: The History of the World's Largest Democracy",
@@ -2348,14 +2364,15 @@
         },
         {
             "title": "নাস্তিক পন্ডিতের ভিটা",
-            "author": "Sanmatrananda, সন্মাত্রানন্দ",
-            "cover": "assets/covers/book-place.jpg",
+            "author": "Sanmatrananda",
+            "cover": "assets/covers/nastik.webp",
             "rating": 5,
             "dateRead": "2019-02-14",
-            "tags": [],
+            "tags": ["Historical Fiction", "Indian Philosophy", "Fiction"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Summerhill: A Radical Approach to Child Rearing",
@@ -2371,10 +2388,10 @@
         {
             "title": "The Untethered Soul: The Journey Beyond Yourself",
             "author": "Michael A. Singer",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/untethered.jpg",
             "rating": 5,
             "dateRead": "2024-09-07",
-            "tags": [],
+            "tags": ["Philosophy"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -2524,14 +2541,15 @@
         },
         {
             "title": "Dracula",
-            "author": "Bram Stoker",
-            "cover": "assets/covers/book-place.jpg",
+            "author": "Bram Stoker, Alan Cumming (Narr.)",
+            "cover": "assets/covers/dracula.jpg",
             "rating": 5,
             "dateRead": "2023-07-13",
-            "tags": [],
+            "tags": ["Horror", "Foreign", "Fiction"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "audio"
         },
         {
             "title": "The Lost Symbol",
@@ -2580,17 +2598,18 @@
         {
             "title": "Around the World in Eighty Days",
             "author": "Jules Verne",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/80days.jpg",
             "rating": 5,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Adventure", "Fiction"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Zen Mind, Beginner's Mind",
-            "author": "Shunryu Suzuki",
+            "author": "Shunryu Suzuki, Peter Coyote (Narr.)",
             "cover": "assets/covers/zen.jpg",
             "rating": 5,
             "dateRead": "2025-05-03",
@@ -2702,7 +2721,7 @@
         {
             "title": "দোজখনামা",
             "author": "Rabisankar Bal",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/dozakh.png",
             "rating": 5,
             "dateRead": "2020-04-08",
             "tags": ["Non Fiction", "Poetry"],
@@ -2713,13 +2732,14 @@
         {
             "title": "প্রথম প্রতিশ্রুতি",
             "author": "Ashapurna Devi",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/pratham.jpg",
             "rating": 5,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Classic", "Fiction", "Historical Fiction"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Immune: A Journey Into the Mysterious System That Keeps You Alive",
@@ -2800,14 +2820,15 @@
         },
         {
             "title": "কৃষ্ণচরিত্র",
-            "author": "Bankim Chandra Chattopadhyay, Bankim Chandra Chattopadhyay",
-            "cover": "assets/covers/book-place.jpg",
+            "author": "Bankim Chandra Chattopadhyay",
+            "cover": "assets/covers/krishnacharitra.jpg",
             "rating": 5,
             "dateRead": "2015-12-31",
-            "tags": [],
+            "tags": ["Biography", "Indian Philosophy"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "The Fellowship of the Ring ",
@@ -2845,21 +2866,22 @@
         {
             "title": "The Catcher in the Rye",
             "author": "J.D. Salinger",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/rye.jpg",
             "rating": 5,
             "dateRead": "2019-08-22",
-            "tags": [],
+            "tags": ["Fiction", "Classic"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Mastery: The Keys to Success and Long-Term Fulfillment",
             "author": "George Leonard",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/mastery.jpeg",
             "rating": 5,
             "dateRead": "2022-02-22",
-            "tags": [],
+            "tags": ["Self-Help"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -3032,13 +3054,14 @@
         {
             "title": "বীরাঙ্গ‌না কাব্য",
             "author": "Michael Madhusudan Dutt",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/birangana.jpg",
             "rating": 5,
             "dateRead": null,
             "tags": ["Poetry"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "The Principle of Relativity",
@@ -3054,24 +3077,26 @@
         {
             "title": "The Grand Design",
             "author": "Stephen Hawking, Leonard Mlodinow",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/grand.jpg",
             "rating": 5,
-            "dateRead": null,
-            "tags": [],
+            "dateRead": "2013-04-01",
+            "tags": ["Science", "Non Fiction"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Candide",
             "author": "Voltaire",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/candide.jpg",
             "rating": 5,
             "dateRead": "2023-08-16",
-            "tags": [],
+            "tags": ["Classic", "Foreign", "Fiction"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": "https://ritobrataghosh.wordpress.com/2024/10/02/candide-review-bengali/",
+            "format": "ebook"
         },
         {
             "title": "কৃষ্ণকান্তের উইল",
@@ -3087,13 +3112,14 @@
         {
             "title": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
             "author": "Simon Singh",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/code-book.jpg",
             "rating": 5,
             "dateRead": "2023-04-12",
-            "tags": [],
+            "tags": ["Science", "CS", "Non Fiction"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "পেটো",
@@ -3131,10 +3157,10 @@
         {
             "title": "গভীর নির্জন পথে",
             "author": "Sudhir Chakraborty",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/nirjan.jpg",
             "rating": 5,
             "dateRead": "2021-11-11",
-            "tags": [],
+            "tags": ["Indian Philosophy", "Non Fiction"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -3186,10 +3212,10 @@
         {
             "title": "গণদেবতা",
             "author": "Tarashankar Bandyopadhyay",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/gana.jpeg",
             "rating": 5,
             "dateRead": "2019-11-05",
-            "tags": [],
+            "tags": ["Classic", "Fiction"],
             "language": "BN",
             "status": "read",
             "review": null
@@ -6399,10 +6425,10 @@
         {
             "title": "What the Buddha Taught",
             "author": "Walpola Rahula",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/walpola.webp",
             "rating": 5,
             "dateRead": "2022-03-23",
-            "tags": [],
+            "tags": ["Buddhism", "Philosophy", "Indian History"],
             "language": "EN",
             "status": "read",
             "review": null
@@ -6432,13 +6458,14 @@
         {
             "title": "1Q84",
             "author": "Haruki Murakami",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/1q84.jpg",
             "rating": 4,
             "dateRead": "2018-05-22",
-            "tags": [],
+            "tags": ["Fantasy", "Japanese", "Foreign"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Against Method",

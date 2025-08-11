@@ -1,0 +1,9 @@
+{
+    "version": "0.2",
+    "ignorePaths": ["*.json"],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [],
+    "ignoreWords": [],
+    "import": []
+}

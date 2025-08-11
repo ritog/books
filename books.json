@@ -2585,7 +2585,7 @@
             "review": null
         },
         {
-            "title": "ржЖржорж╛ржЬржирзЗрж░ ржЬржЩрзНржЧрж▓рзЗ",
+            "title": "আমাজনের জঙ্গলে",
             "author": "Amarendra Chakraborty",
             "cover": "assets/covers/book-place.jpg",
             "rating": 4,
@@ -2644,13 +2644,14 @@
         {
             "title": "Mathematics Can Be Fun",
             "author": "Yakov Perelman",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/funmath.jpg",
             "rating": null,
             "dateRead": null,
             "tags": ["Mathematics"],
             "language": "EN",
             "status": "want-to-read",
-            "review": null
+            "review": null,
+            "format": "ebook"
         },
         {
             "title": "Blindsight",
@@ -5814,24 +5815,25 @@
         {
             "title": "বঙ্গীয় রন্ধনশিল্প ",
             "author": "Rajarshi Das Bhowmik",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/bongio.jpg",
             "rating": 4.5,
             "dateRead": "2024-09-28",
-            "tags": [],
+            "tags": ["Historical Fiction", "Fiction"],
             "language": "BN",
             "status": "read",
-            "review": null
+            "review": "https://ritobrataghosh.wordpress.com/2024/10/02/bongiyo-rondhonshilpo-review/"
         },
         {
-            "title": "ржоржжржи рждржкрж╛ржжрж╛рж░рзЗрж░ ржмрж╛ржХрзНрж╕",
+            "title": "মদন তপাদারের বাক্স",
             "author": "Shirshendu Mukhopadhyay",
-            "cover": "assets/covers/book-place.jpg",
+            "cover": "assets/covers/modon.jpg",
             "rating": 5,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Absurd"],
             "language": "EN",
             "status": "read",
-            "review": null
+            "review": null,
+            "format": "paper"
         },
         {
             "title": "Technopoly: The Surrender of Culture to Technology",
@@ -5839,7 +5841,7 @@
             "cover": "assets/covers/book-place.jpg",
             "rating": null,
             "dateRead": null,
-            "tags": [],
+            "tags": ["Technology"],
             "language": "EN",
             "status": "want-to-read",
             "review": null

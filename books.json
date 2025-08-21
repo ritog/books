@@ -1,6 +1,18 @@
 {
     "books": [
         {
+            "title": "Avadhuta Gita of Dattatreya",
+            "author": "Swami Chetanananda",
+            "cover": "assets/covers/avadhuta.jpeg",
+            "rating": 4,
+            "dateRead": "2025-08-22",
+            "tags": ["Philosophy", "Indian Philosophy"],
+            "language": "EN",
+            "status": "want-to-read",
+            "review": null,
+            "format": "ebook"
+        },        
+        {
             "title": "The Glass Bead Game",
             "author": "Hermann Hesse",
             "cover": "assets/covers/glass-bead-game.jpeg",

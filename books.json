@@ -1,6 +1,18 @@
 {
     "books": [
         {
+            "title": "Musashi's Dokkodo",
+            "author": "Miyamoto Musashi",
+            "cover": "assets/covers/dokkodo.jpeg",
+            "rating": null,
+            "dateRead": null,
+            "tags": ["Non Fiction", "Philosophy", "Foreign"],
+            "language": "EN",
+            "status": "want-to-read",
+            "review": null,
+            "format": null
+        },        
+        {
             "title": "সাতগাঁর হাওয়াতাঁতিরা",
             "author": "Parimal Bhattacharya",
             "cover": "assets/covers/saptagram.jpeg",

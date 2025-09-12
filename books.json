@@ -1,6 +1,30 @@
 {
     "books": [
         {
+            "title": "গৌরনিতাই গাছ",
+            "author": "Prasanta Malla",
+            "cover": "assets/covers/gachh.jpg",
+            "rating": 4.5,
+            "dateRead": "2025-09-08",
+            "tags": ["Poetry"],
+            "language": "BN",
+            "status": "read",
+            "review": null,
+            "format": "paper"
+        },        
+        {
+            "title": "Death of Ivan Ilyich",
+            "author": "Leo Tolstoy",
+            "cover": "assets/covers/ivan.png",
+            "rating": 5,
+            "dateRead": "2025-09-11",
+            "tags": ["Fiction", "Philosophy", "Foreign", "Russian", "Classic"],
+            "language": "EN",
+            "status": "read",
+            "review": null,
+            "format": "ebook"
+        }, 
+        {
             "title": "Musashi's Dokkodo",
             "author": "Miyamoto Musashi",
             "cover": "assets/covers/dokkodo.jpeg",
